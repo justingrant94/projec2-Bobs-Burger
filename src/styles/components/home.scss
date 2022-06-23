@@ -1,0 +1,14 @@
+.hero {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("https://ntvb.tmsimg.com/assets/p15685116_b_h8_ac.jpg?w=960&h=540");
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  .hero-container{
+    border-radius: 8px;
+    padding: 30px;
+  }
+}
