@@ -3,8 +3,7 @@
 **Collaborator:**
 Nicholas Botorog.
 
-This was a 48hour hackathon challenge in which we worked in pairs to build a React app which used a public API. Aromi and I chose to create a Final Space index, consisting of the characters and a list which would open a new window to watch the selected episode.
-
+This was a 48hour hackathon challenge in which we worked in pairs to build a React app which used a public API. Nicholas and I chose to create a Final Space index, consisting of the characters and a list which would open a new window to watch the selected episode.
 
 **Brief**
 **1.** Consume a public API
@@ -50,7 +49,7 @@ After we had a rough idea of how the page will look aesthetically we then create
  
  HomePage
 
-The Homepage is a hero image of Bob’s burger with a button in the center of the page which takes the user to the characters List which is the Nav.
+The Homepage is a hero image of Bob’s Burgers with a button in the centre of the page which takes the user to the characters List which is the Nav.
 
 <img width="1512" alt="Screenshot 2022-06-21 at 12 34 17" src="https://user-images.githubusercontent.com/73545574/175277897-c584ae24-c4e2-474c-afef-9cd07f924a07.png">
 
@@ -73,10 +72,12 @@ One of the must have features for us on this project was to have a search functi
 **Character Show
 **
 
-The Character Show page is accessed by clicking one of the Character Cards on the Character Index page. This page is made by increasing the size of the character card and adding more information about the selected character. We realised quite soon after pulling the data the API was rather simple so we pulled the first episode when the character's first feature, the actor that is the voice of the character and also the hair colour of the character and also their occupation. 
+The Character Show page is accessed by clicking one of the Character Cards on the Character Index page. This page is made by increasing the size of the character card and adding more information about the selected character. We realised quite soon after pulling the data the API was rather simple so we pulled the first episode when the character's first feature, the actor that is the voice of the character added, the hair colour of the character and also their occupation. 
+
 <img width="966" alt="Screenshot 2022-06-21 at 12 46 47" src="https://user-images.githubusercontent.com/73545574/175278336-517a7ef8-44ae-4c1d-a5f3-9f67f0bc0289.png">
 
-Below we pulled the id’s of the character and as I previously touched on the site stored characters, occupations, episodes and hair color which we wanted to display for the user if they were interested in looking up a user and also the wiki button at the bottom directs you to their own person wikipedia.
+Below we pulled the id’s of the acaharcrets and as I previously touched on the site stored characters, occupations, episodes and hair colour which we wanted to display for the user if they were interested in looking up a user and also the wiki button at the bottom directs you to their own person wikipedia.
+
 ![Uploading Screenshot 2022-06-21 at 12.51.17.png…]()
 <img width="618" alt="Screenshot 2022-06-21 at 12 51 27" src="https://user-images.githubusercontent.com/73545574/175278572-c84c0766-2cba-4fa8-90a3-157b61705e8e.png">
 
@@ -87,12 +88,12 @@ Below we pulled the id’s of the character and as I previously touched on the s
 **Future Improvements
 **
 
-**1.** Work a little more on the CSS, jazz things up some more.
+**1.** Work a little more on the CSS, improve the styling.
 **2.** Creating another page for a game, to add engagement, something like a pair game where you have to match the tiles could have been a nice addition.
 
 **Wins & Key Learnings**
 
-1. As the first project that I have worked on, it was extremely enjoyable as there were some gaps in my knowledge that I was able to ask and as my pair knew the answers made things a lot easier to digest.
+1. As this was the first pair programming we have taken part in, it was extremely enjoyable as there were some gaps in my knowledge that I was able to ask and as my pair knew the answers made things a lot easier to digest.
 2. The improvement in understanding setting data ‘in state’ and navigating APIs.
 3. Recognising that console.log() is your best friend.
 
