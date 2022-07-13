@@ -3,7 +3,7 @@
 **Collaborator:**
 Nicholas Botorog.
 
-This was a 48 hour hackathon challenge in which we worked in pairs to build a React app which used a public API. Nicholas and I chose to create a Bob’s Burgers website, consisting of the characters and a list of when each character made their first appearance. In addition, to the voiceover actor.
+This was a 48 hour hackathon challenge in which we worked in pairs to build a React app which used a public API. Nicholas and we chose to create a Bob’s Burgers website, consisting of the characters and a list of when each character made their first appearance. In addition, to the voiceover actor.
 
 **Brief**
 **1.** Consume a public API
