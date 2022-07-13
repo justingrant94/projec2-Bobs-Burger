@@ -73,7 +73,8 @@ The Character Show page is accessed by clicking on one of the Character Cards on
 
 Below we pulled the id’s of the acaharcrets and as I previously touched on the site stored characters, occupations, episodes and hair colour which we wanted to display for the user if they were interested in looking up a user and also the wiki button at the bottom directs you to their own person wikipedia.
 
-![Uploading Screenshot 2022-06-21 at 12.51.17.png…]()
+<img width="484" alt="Screenshot 2022-07-13 at 09 42 36" src="https://user-images.githubusercontent.com/73545574/178692134-9ba2e3f0-7174-47db-8d33-3eef2902b364.png">
+
 <img width="618" alt="Screenshot 2022-06-21 at 12 51 27" src="https://user-images.githubusercontent.com/73545574/175278572-c84c0766-2cba-4fa8-90a3-157b61705e8e.png">
 
 **Challenges**
