@@ -25,8 +25,7 @@ This was a 48 hour hackathon challenge in which we worked in pairs to build a Re
 6. React-Router-Dom
 7. ReactBootStrap
 
-**
-Deployment**
+**Deployment**
 
 The app is deployed on Netlify and can be found here - https://isnt-justingrant94-awesome.netlify.app/
 
@@ -60,15 +59,13 @@ We were then able to use the data drawn from this API to create Character Cards 
 
 <img width="983" alt="Screenshot 2022-06-21 at 12 41 12" src="https://user-images.githubusercontent.com/73545574/175278126-f2eeecfa-1962-4889-95d7-a6f18b189a9a.png">
 
-**Search Function
-**
+**Search Function**
 
 One of the must have features for us on this project was to have a search function, so the user is able to type and find the exact character they want. We did so by filtering through each character name and ensuring it matches the search value which the user types, which also our filter drop down is also incorporated within the code.
 
 <img width="611" alt="Screenshot 2022-06-21 at 12 44 40" src="https://user-images.githubusercontent.com/73545574/175278229-4a9a9448-053d-4e43-b616-06a4ccdfc241.png">
 
-**Character Show
-**
+**Character Show**
 
 The Character Show page is accessed by clicking on one of the Character Cards on the Character Index page. This page is made by increasing the size of the character card and adding more information about the selected character. We realised quite soon after pulling the data the API was rather simple so we pulled the first episode when the character's first featured, the actor that is the voice of the character, hair colour and also their occupation of the character. 
 
@@ -83,8 +80,7 @@ Below we pulled the id’s of the acaharcrets and as I previously touched on the
 
 **1.** We faced difficulties in the beginning trying to find a good API to work on as a lot of them were giving us permission issues, which is one of the main reasons why we settled with this specific API. 
 
-**Future Improvements
-**
+**Future Improvements**
 
 **1.** Work a little more on the CSS, improve the styling.
 **2.** Creating another page for a game, to add engagement, something like a pair game where you have to match the tiles could have been a nice addition.
