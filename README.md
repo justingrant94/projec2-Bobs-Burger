@@ -15,8 +15,7 @@ This was a 48 hour hackathon challenge in which we worked in pairs to build a Re
 
 <img width="788" alt="Screenshot 2022-06-23 at 11 14 59" src="https://user-images.githubusercontent.com/73545574/175276237-b6ea2d98-552c-4e8e-a8e8-1f8e296ce61d.png">
 
-**Built With:
-**
+**Built With:**
 
 1. React.Js
 2. JSX
@@ -31,8 +30,7 @@ Deployment**
 
 The app is deployed on Netlify and can be found here - https://isnt-justingrant94-awesome.netlify.app/
 
-**Process
-**
+**Process**
 
 Knowing we only had 48 hours in order to complete this project we chose an API which we thought would be fun to work with and we were able to clearly set out our “must haves”. Nicholas and I decided we would work closely together and code along for the small and quick project which worked very well. The must haves we included in the project were the following; 
 
@@ -47,7 +45,7 @@ After we had a rough idea of how the page will look aesthetically we then create
 
  <img width="453" alt="Screenshot 2022-06-21 at 12 32 09" src="https://user-images.githubusercontent.com/73545574/175277849-6f4a4288-1da0-4a49-a646-021f2d9d1655.png">
  
- HomePage
+**HomePage**
 
 The Homepage is a hero image of Bob’s Burgers with a button in the centre of the page which takes the user to the characters List which is the Nav.
 
